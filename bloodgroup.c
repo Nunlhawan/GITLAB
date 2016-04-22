@@ -1,8 +1,8 @@
 #include <stdio.h>
 #include <string.h>
 void main()
-{ char Name[50], G[10], answer[15];
-  int i;
+{ char Name[40], G[5], answer[10];
+  int i,j;
   do
   {
     printf("What is your Name? ");
